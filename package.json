@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
-    "typescript-plus": "^3.1.5"
+    "typescript-plus": "^3.1.5",
+    "uglify-js": "^3.15.2"
   }
 }
