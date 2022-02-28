@@ -3,17 +3,15 @@
   "version": "1.0.0",
   "description": "用ts开发nodejs",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc-plus"
   },
   "bin": {
     "xxx": "./bin/index.js"
   },
   "author": "CYK",
   "license": "ISC",
-  "devDependencies": {
-    "@types/node": "^17.0.21"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "typescript": "^4.5.5"
+    "typescript-plus": "^3.1.5"
   }
 }
