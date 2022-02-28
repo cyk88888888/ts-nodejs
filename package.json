@@ -1,0 +1,19 @@
+{
+  "name": "ts-nodejs",
+  "version": "1.0.0",
+  "description": "用ts开发nodejs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "bin": {
+    "xxx": "./bin/index.js"
+  },
+  "author": "CYK",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
